@@ -1,7 +1,7 @@
-S: Single Responsability Principle
-O: Open-Closed Principle
-L: Liskov Substitution Principle
-I: Iinterface Segregation Principle
+S: Single Responsability Principle <br>
+O: Open-Closed Principle <br>
+L: Liskov Substitution Principle <br>
+I: Iinterface Segregation Principle <br>
 D: Dependency Inversion Principle
 
 <br>

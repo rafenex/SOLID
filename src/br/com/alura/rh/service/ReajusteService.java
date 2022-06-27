@@ -19,5 +19,9 @@ public class ReajusteService {
 		funcionario.atualizarSalario(salarioReajustado);
 		
 	}
+	
+	//DEPENDENCY INVERSION PRINCIPLE
+	//ABSTRAÇÕES NÃO DEVEM DEPENDER DE IMPLEMENTAÇÕES. 
+	//IMPLEMENTAÇÕES DEVEM DEPENDER DE ABSTRAÇÕES.
 
 }
